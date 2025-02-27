@@ -1,5 +1,5 @@
 {
-  "name": "@ahub/commitlint-config",
+  "name": "@ahub-public/commitlint-config",
   "version": "1.0.0",
   "main": "commitlint.config.js",
   "publishConfig": {
